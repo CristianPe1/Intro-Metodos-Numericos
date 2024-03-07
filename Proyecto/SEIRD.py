@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  4 08:37:48 2022
 
-@author: cterr
+@author: Cristian Peña
 
 """
 
